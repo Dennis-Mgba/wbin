@@ -1621,15 +1621,18 @@ nav {
         }
 
         .center-small-rectangle {
+            outline: 1px solid red;
             margin-left: 0px !important;
             width: 100%;
+            height: 60px;
 
             .freebies {
                 padding-left: 30px !important;
 
                 p {
                     width: 300px;
-                    font-size: 15px;
+                    font-size: 13px;
+                    line-height: 20px;
                 }
             }.sm-col-lg {
                 width: 89%;

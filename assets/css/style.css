@@ -1287,15 +1287,18 @@ nav {
     font-size: 9px;
   }
   .video-section .center-small-rectangle {
+    outline: 1px solid red;
     margin-left: 0px !important;
     width: 100%;
+    height: 60px;
   }
   .video-section .center-small-rectangle .freebies {
     padding-left: 30px !important;
   }
   .video-section .center-small-rectangle .freebies p {
     width: 300px;
-    font-size: 15px;
+    font-size: 13px;
+    line-height: 20px;
   }
   .video-section .center-small-rectangle .sm-col-lg {
     width: 89%;
