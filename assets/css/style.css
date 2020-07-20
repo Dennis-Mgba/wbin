@@ -1659,15 +1659,19 @@ nav {
   /* Video section */
   .video-section .center-small-rectangle {
     padding-bottom: 5%;
+    height: 120px;
   }
   .video-section .center-small-rectangle .freebies {
     flex-direction: column;
-    padding-left: 5% !important;
+    padding-left: 0 !important;
     text-align: center;
   }
   .video-section .center-small-rectangle .freebies p {
+    width: 80%;
     font-size: 15px;
     color: #fff;
+    margin-left: auto;
+    margin-right: auto;
   }
   .video-section .center-small-rectangle .freebies .freebies-btn {
     margin-left: 0;
